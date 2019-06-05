@@ -1,0 +1,56 @@
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.exe.config
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.Properties.Resources.resources
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csproj.GenerateResource.Cache
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.exe
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.pdb
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.exe
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.pdb
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.exe.licenses
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.Design.dll
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.dll
+c:\users\h2pl\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\H2PL\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmMain.resources
+C:\Users\H2PL\documents\visual studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmDictionary.resources
+C:\Users\H2PL\Documents\Visual Studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmGramar.resources
+C:\Users\H2PL\Documents\Visual Studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmListen.resources
+C:\Users\H2PL\Documents\Visual Studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\H2PL\Documents\Visual Studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmTest.resources
+C:\Users\H2PL\Documents\Visual Studio 2015\Projects\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmSetting.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.exe.config
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.exe
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.pdb
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.dll
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmDictionary.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmGramar.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmListen.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmMain.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.Properties.Resources.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmSetting.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmTest.resources
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csproj.GenerateResource.Cache
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.exe.licenses
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.exe
+C:\Users\Tranguit\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.pdb
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.exe.config
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.exe
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\AV-Dictionary.pdb
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.Design.dll
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.dll
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csprojAssemblyReference.cache
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmDictionary.resources
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmGramar.resources
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmListen.resources
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmMain.resources
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.Properties.Resources.resources
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmSetting.resources
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV_Dictionary.frmTest.resources
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csproj.GenerateResource.cache
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.exe.licenses
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.csproj.CopyComplete
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.exe
+C:\Users\LAM-PC\Desktop\AV-Dictionary-20170607T030704Z-001\AV-Dictionary-20170607T030704Z-001\AV-Dictionary\AV-Dictionary\obj\Debug\AV-Dictionary.pdb

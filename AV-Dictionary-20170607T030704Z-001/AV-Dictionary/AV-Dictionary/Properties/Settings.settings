@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AV_Dictionary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_offsetFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data\anhviet109K.txt</Value>
+    </Setting>
+    <Setting Name="_meaningFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data\anhviet109K1.txt</Value>
+    </Setting>
+    <Setting Name="_numOfWord" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">108857</Value>
+    </Setting>
+    <Setting Name="_recentFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data\recent.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
